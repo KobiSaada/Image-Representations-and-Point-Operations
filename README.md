@@ -56,4 +56,5 @@ it, since it’s OpenCV’s functions, the image will have to be represented as 
 **Gamma Correction in Grayscale:**
 
 <img width="642" alt="Screen Shot 2022-03-28 at 23 44 44" src="https://user-images.githubusercontent.com/73976733/160486077-cfe228b0-7349-4bd4-8288-cc8768b00d96.png">
+
 **Enjoy**:smile:
