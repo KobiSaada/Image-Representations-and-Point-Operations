@@ -1,5 +1,5 @@
-# Image-Representations-and-Point-Operations
-Image Processing and Computer Vision Course Assignment 1:camera: :zap:
+# Image-Representations-and-Point-Operations:camera: :zap:
+Image Processing and Computer Vision Course Assignment 1
 
 In this assignment the following tasks were implemented using Python and the OpenCV library:
 
