@@ -2,7 +2,7 @@
 Image Processing and Computer Vision Course Assignment 1
 
 
- <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" 
+ <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40"  </code>
                                                            
 In this assignment the following tasks were implemented using Python and the OpenCV library:
 
