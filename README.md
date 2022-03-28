@@ -1,6 +1,9 @@
 # Image-Representations-and-Point-Operations:camera: :zap:
 Image Processing and Computer Vision Course Assignment 1
 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/96px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA"></a></code>
+ <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" 
+                                                           
 In this assignment the following tasks were implemented using Python and the OpenCV library:
 
 **Reading an image into a given representation** -> Reads an image, and returns the image converted as requested
