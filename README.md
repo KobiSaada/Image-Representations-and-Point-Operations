@@ -3,12 +3,18 @@ Image Processing and Computer Vision Course Assignment 1
 
 In this assignment the following tasks were implemented using Python and the OpenCV library:
 
-*Reading an image into a given representation* -> Reads an image, and returns the image converted as requested
-*Displaying an image* -> Reads an image as RGB or GRAY_SCALE and displays it
+**Reading an image into a given representation** -> Reads an image, and returns the image converted as requested
+
+**Displaying an image** -> Reads an image as RGB or GRAY_SCALE and displays it
+
 **Transforming an RGB image to YIQ color space**-> Converts an RGB image to YIQ color space
+
 **Transforming an YIQ image to RGB color space**->Converts an YIQ image to RGB color space
+
 **Histogram equalization**->Equalizes the histogram of an image
+
 **Optimal image quantization**-> Quantized an image in to **nQuant** colors
+
 **Gamma Correction**->GUI for gamma correction with trackBar from(• OpenCV trackbar example and • Gamma Correction Wikipedia)
 
 # Image Outputs of the tasks listed above using the OpenCV and Matplotlib libraries:
@@ -23,6 +29,7 @@ ransform an RGB image into the YIQ color space and vice versa. Given the red (R)
 **Histogram Equalization:**
 
 a function that performs histogram equalization of a given grayscale or RGB image. The function should also display the input and the equalized output image.
+
 <img width="498" alt="Screen Shot 2022-03-29 at 0 02 40" src="https://user-images.githubusercontent.com/73976733/160486781-3f08c7e8-e130-48e6-b56a-caba821c7bb2.png">
 
 **Original Grayscale Image and Equalized Grayscale Image:**
@@ -36,7 +43,8 @@ a function that performs histogram equalization of a given grayscale or RGB imag
 
 **Quantized RGB Image and Grayscale Image :**
 
-<img width="369" alt="Screen Shot 2022-03-28 at 23 54 27" src="https://user-images.githubusercontent.com/73976733/160485935-0410e73c-5011-4668-b987-728514a20bb6.png"> <img width="371" alt="Screen Shot 2022-03-29 at 0 10 47" src="https://user-images.githubusercontent.com/73976733/160487973-acfcac08-3d8e-4907-9ff7-d84297a0f306.png">
+<img width="371" alt="Screen Shot 2022-03-29 at 0 13 16" src="https://user-images.githubusercontent.com/73976733/160488369-0b43ed1f-9153-4581-8e3d-80a534651582.png">
+  <img width="371" alt="Screen Shot 2022-03-29 at 0 10 47" src="https://user-images.githubusercontent.com/73976733/160487973-acfcac08-3d8e-4907-9ff7-d84297a0f306.png">
 
 
 # Gamma Correction:
