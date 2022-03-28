@@ -1,8 +1,6 @@
 # Image-Representations-and-Point-Operations:camera: :zap:
 Image Processing and Computer Vision Course Assignment 1
-
-
- <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40"  </code>
+Written in Python on PyCharm workspace ![22](https://user-images.githubusercontent.com/73976733/104122372-55ae3700-534d-11eb-8de4-492973fca972.jpeg)
                                                            
 In this assignment the following tasks were implemented using Python and the OpenCV library:
 
