@@ -3,8 +3,8 @@ Image Processing and Computer Vision Course Assignment 1
 
 In this assignment the following tasks were implemented using Python and the OpenCV library:
 
-**Reading an image into a given representation** -> Reads an image, and returns the image converted as requested
-**Displaying an image** -> Reads an image as RGB or GRAY_SCALE and displays it
+*Reading an image into a given representation* -> Reads an image, and returns the image converted as requested
+*Displaying an image* -> Reads an image as RGB or GRAY_SCALE and displays it
 **Transforming an RGB image to YIQ color space**-> Converts an RGB image to YIQ color space
 **Transforming an YIQ image to RGB color space**->Converts an YIQ image to RGB color space
 **Histogram equalization**->Equalizes the histogram of an image
@@ -34,9 +34,10 @@ a function that performs histogram equalization of a given grayscale or RGB imag
 
 <img width="998" alt="Screen Shot 2022-03-28 at 23 53 35" src="https://user-images.githubusercontent.com/73976733/160485721-f96b9cba-d4da-4030-a9f1-3d1e99bf05af.png">
 
-**Quantized RGB Image:**
+**Quantized RGB Image and Grayscale Image :**
 
-<img width="369" alt="Screen Shot 2022-03-28 at 23 54 27" src="https://user-images.githubusercontent.com/73976733/160485935-0410e73c-5011-4668-b987-728514a20bb6.png">
+<img width="369" alt="Screen Shot 2022-03-28 at 23 54 27" src="https://user-images.githubusercontent.com/73976733/160485935-0410e73c-5011-4668-b987-728514a20bb6.png"> <img width="371" alt="Screen Shot 2022-03-29 at 0 10 47" src="https://user-images.githubusercontent.com/73976733/160487973-acfcac08-3d8e-4907-9ff7-d84297a0f306.png">
+
 
 # Gamma Correction:
 a function that performs gamma correction on an image with a given γ.
