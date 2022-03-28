@@ -43,8 +43,8 @@ a function that performs histogram equalization of a given grayscale or RGB imag
 
 **Quantized RGB Image and Grayscale Image :**
 
-<img width="371" alt="Screen Shot 2022-03-29 at 0 13 16" src="https://user-images.githubusercontent.com/73976733/160488369-0b43ed1f-9153-4581-8e3d-80a534651582.png">
-  <img width="371" alt="Screen Shot 2022-03-29 at 0 10 47" src="https://user-images.githubusercontent.com/73976733/160487973-acfcac08-3d8e-4907-9ff7-d84297a0f306.png">
+<img width="371" alt="Screen Shot 2022-03-29 at 0 13 16" src="https://user-images.githubusercontent.com/73976733/160488369-0b43ed1f-9153-4581-8e3d-80a534651582.png">   <img width="371" alt="Screen Shot 2022-03-29 at 0 10 47" src="https://user-images.githubusercontent.com/73976733/160487973-acfcac08-3d8e-4907-9ff7-d84297a0f306.png">
+
 
 
 # Gamma Correction:
